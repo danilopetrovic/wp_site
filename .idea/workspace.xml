@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2a84e158-b8ad-4f18-954f-cef8846abbbe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/escalate/hader.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/escalate/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/escalate/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/escalate/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/escalate/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/escalate/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/escalate/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/escalate/page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/escalate/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/escalate/single.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,17 +20,17 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="160">
               <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+            <state relative-caret-position="432">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -54,17 +56,52 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state>
               <folding>
-                <element signature="e#241#247#0#HTML" expanded="true" />
-                <element signature="e#247#253#0#HTML" expanded="true" />
-                <element signature="e#253#259#0#HTML" expanded="true" />
-                <element signature="e#307#313#0#HTML" expanded="true" />
-                <element signature="e#313#319#0#HTML" expanded="true" />
-                <element signature="e#319#325#0#HTML" expanded="true" />
-                <element signature="e#416#437#0#HTML" expanded="true" />
+                <element signature="e#306#312#0#HTML" expanded="true" />
+                <element signature="e#312#318#0#HTML" expanded="true" />
+                <element signature="e#318#324#0#HTML" expanded="true" />
+                <element signature="e#461#467#0#HTML" expanded="true" />
+                <element signature="e#467#473#0#HTML" expanded="true" />
+                <element signature="e#473#479#0#HTML" expanded="true" />
+                <element signature="e#590#611#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="e#306#312#0#HTML" expanded="true" />
+                <element signature="e#312#318#0#HTML" expanded="true" />
+                <element signature="e#318#324#0#HTML" expanded="true" />
+                <element signature="e#461#467#0#HTML" expanded="true" />
+                <element signature="e#467#473#0#HTML" expanded="true" />
+                <element signature="e#473#479#0#HTML" expanded="true" />
+                <element signature="e#590#611#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -82,6 +119,8 @@
     <findStrings>
       <find>title'</find>
       <find>header</find>
+      <find>someone</find>
+      <find />
     </findStrings>
     <dirStrings>
       <dir>C:\wamp64\www\wordpress\wp-content\themes\escalate</dir>
@@ -93,14 +132,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/escalate/page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/escalate/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/escalate/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/escalate/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/escalate/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/escalate/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/escalate/hader.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/escalate/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/escalate/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/escalate/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/escalate/functions.php" />
       </list>
     </option>
   </component>
@@ -117,10 +156,9 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2" />
-    <option name="y" value="2" />
-    <option name="width" value="1687" />
-    <option name="height" value="1017" />
+    <option name="x" value="-8" />
+    <option name="width" value="864" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -162,7 +200,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wordpress_tema_escalate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PressCode" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -192,28 +230,30 @@
       <updated>1530613118232</updated>
       <workItem from="1530613119374" duration="2132000" />
       <workItem from="1530616743988" duration="2413000" />
-      <workItem from="1530658056571" duration="1172000" />
+      <workItem from="1530658056571" duration="1842000" />
+      <workItem from="1530696505893" duration="59000" />
+      <workItem from="1530697337607" duration="1356000" />
+      <workItem from="1530700713599" duration="916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5717000" />
+    <option name="totallyTimeSpent" value="8718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26528117" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32995495" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25611246" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32995495" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -222,6 +262,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +275,136 @@
     <wordpressPath>C:\wamp64\www\wordpress</wordpressPath>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="95" selection-start-line="12" selection-start-column="95" selection-end-line="12" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="e#306#312#0#HTML" expanded="true" />
+            <element signature="e#312#318#0#HTML" expanded="true" />
+            <element signature="e#318#324#0#HTML" expanded="true" />
+            <element signature="e#461#467#0#HTML" expanded="true" />
+            <element signature="e#467#473#0#HTML" expanded="true" />
+            <element signature="e#473#479#0#HTML" expanded="true" />
+            <element signature="e#590#611#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="95" selection-start-line="12" selection-start-column="95" selection-end-line="12" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding>
+            <element signature="e#306#312#0#HTML" expanded="true" />
+            <element signature="e#312#318#0#HTML" expanded="true" />
+            <element signature="e#318#324#0#HTML" expanded="true" />
+            <element signature="e#461#467#0#HTML" expanded="true" />
+            <element signature="e#467#473#0#HTML" expanded="true" />
+            <element signature="e#473#479#0#HTML" expanded="true" />
+            <element signature="e#590#611#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="95" selection-start-line="12" selection-start-column="95" selection-end-line="12" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -266,15 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#241#247#0#HTML" expanded="true" />
-            <element signature="e#247#253#0#HTML" expanded="true" />
-            <element signature="e#253#259#0#HTML" expanded="true" />
-            <element signature="e#307#313#0#HTML" expanded="true" />
-            <element signature="e#313#319#0#HTML" expanded="true" />
-            <element signature="e#319#325#0#HTML" expanded="true" />
-            <element signature="e#416#437#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -337,20 +499,6 @@
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -360,7 +508,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="160">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
@@ -372,33 +520,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state>
           <folding>
-            <element signature="e#241#247#0#HTML" expanded="true" />
-            <element signature="e#247#253#0#HTML" expanded="true" />
-            <element signature="e#253#259#0#HTML" expanded="true" />
-            <element signature="e#307#313#0#HTML" expanded="true" />
-            <element signature="e#313#319#0#HTML" expanded="true" />
-            <element signature="e#319#325#0#HTML" expanded="true" />
-            <element signature="e#416#437#0#HTML" expanded="true" />
+            <element signature="e#306#312#0#HTML" expanded="true" />
+            <element signature="e#312#318#0#HTML" expanded="true" />
+            <element signature="e#318#324#0#HTML" expanded="true" />
+            <element signature="e#461#467#0#HTML" expanded="true" />
+            <element signature="e#467#473#0#HTML" expanded="true" />
+            <element signature="e#473#479#0#HTML" expanded="true" />
+            <element signature="e#590#611#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#306#312#0#HTML" expanded="true" />
+            <element signature="e#312#318#0#HTML" expanded="true" />
+            <element signature="e#318#324#0#HTML" expanded="true" />
+            <element signature="e#461#467#0#HTML" expanded="true" />
+            <element signature="e#467#473#0#HTML" expanded="true" />
+            <element signature="e#473#479#0#HTML" expanded="true" />
+            <element signature="e#590#611#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/escalate/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        <state relative-caret-position="96">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
